@@ -1,4 +1,4 @@
-package com.uniftec.matheus;
+package com.uniftec.matheus.unidade1;
 
 public class Atividade6 {
 
